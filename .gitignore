@@ -41,3 +41,6 @@ app.*.symbols
 app.*.map.json
 android/.project
 android/app/.project
+android/.settings/org.eclipse.buildship.core.prefs
+android/app/.classpath
+android/app/.settings/org.eclipse.buildship.core.prefs
